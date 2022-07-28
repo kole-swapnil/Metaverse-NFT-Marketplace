@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/alt-text */
 /* eslint-disable @next/next/no-img-element */
 import { FunctionComponent } from "react";
-import { NftMetaData } from "../../../types/nft";
+import { NftMetaData } from "../../../../types/nft";
 
 type NftItemProps = {
   nft: NftMetaData;
